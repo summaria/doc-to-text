@@ -19,6 +19,7 @@
   "homepage": "https://github.com/summaria/doc-to-text#readme",
   "dependencies": {
     "axios": "^0.21.1",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "pdf.js-extract": "^0.1.5",
     "pdfjs-dist": "^2.9.359"
